@@ -1,6 +1,6 @@
 # Elevate-Resort-Analysis
 Worked on the Elevate Resort Dataset to create a comprehensive report, evaluating the business by various factors and aspects, using Power BI.
-Applied a lot of the learnings from my previous project, focused on the hospitality industry - https://github.com/PranavP4tel/Hospitality-Analysis-PowerBI
+Applied a lot of the learnings from my previous project, focused on the hospitality industry - https://github.com/sheetal-narwal/Hospitality-Analysis-PowerBI
 
 ### Measures and calculations created using DAX:
 1. Revenue and YoY percent change.
